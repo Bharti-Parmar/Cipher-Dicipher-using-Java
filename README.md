@@ -1,6 +1,10 @@
 # Cipher-Dicipher-using-Java
 A brute_force based Cipher-Dicipher written in Java Language with UI/UX
 
+# Team Members:
+ 1.) **Atul Anand**
+ 2.) **Bharti Parmar**
+
 # Objective:
 The main objective of this project is to build a portable program for Encryption and Decryption using Packages.
 Users can implement these packages into their program to run Cipher. Here, we have shown a glimpse of its implementation in a fully functional applet programming.
